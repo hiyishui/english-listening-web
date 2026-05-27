@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "date": "2026-05-24",
+      "title": "A Practical Morning in the City",
+      "level": "B1/B2",
+      "durationSec": 184.252,
+      "paths": {
+        "lesson": "content/lessons/2026-05-24/lesson.json",
+        "audio": "content/lessons/2026-05-24/audio.mp3",
+        "captions": "content/lessons/2026-05-24/captions.vtt",
+        "transcript": "content/lessons/2026-05-24/transcript.txt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "date": "2026-05-24",
+  "title": "A Practical Morning in the City",
+  "level": "B1/B2",
+  "durationSec": 184.252,
+  "sentences": [
+    {
+      "index": 0,
+      "text": "On weekdays, my morning starts at the same time, even before my alarm rings.",
+      "startSec": 0,
+      "endSec": 5.858
+    },
+    {
+      "index": 1,
+      "text": "I usually lie in bed for a minute and think about what I need to do that day.",
+      "startSec": 5.858,
+      "endSec": 10.227
+    },
+    {
+      "index": 2,
+      "text": "Then I get up, open the window, and check the weather before I choose my clothes.",
+      "startSec": 10.227,
+      "endSec": 15.244
+    },
+    {
+      "index": 3,
+      "text": "If it looks like rain, I put a small umbrella in my bag so I do not have to buy one later.",
+      "startSec": 15.244,
+      "endSec": 21.366
+    },
+    {
+      "index": 4,
+      "text": "In the kitchen, I make a quick breakfast, usually toast, fruit, and a cup of coffee.",
+      "startSec": 21.366,
+      "endSec": 27.392
+    },
+    {
+      "index": 5,
+      "text": "While the coffee is brewing, I pack my lunch because buying food every day is too expensive.",
+      "startSec": 27.392,
+      "endSec": 33.994
+    },
+    {
+      "index": 6,
+      "text": "I also fill a bottle with water, since I often forget to drink enough during the day.",
+      "startSec": 33.994,
+      "endSec": 38.795
+    },
+    {
+      "index": 7,
+      "text": "Before I leave home, I take a quick look around to make sure I have my keys, wallet, and phone.",
+      "startSec": 38.795,
+      "endSec": 44.821
+    },
+    {
+      "index": 8,
+      "text": "A few times each month, I almost walk out without one of them, so now I check carefully.",
+      "startSec": 44.821,
+      "endSec": 50.486
+    },
+    {
+      "index": 9,
+      "text": "My apartment is not far from the station, but I still leave early because traffic can be unpredictable.",
+      "startSec": 50.486,
+      "endSec": 57.136
+    },
+    {
+      "index": 10,
+      "text": "Some mornings the bus arrives on time, and other mornings it is ten minutes late for no clear reason.",
+      "startSec": 57.136,
+      "endSec": 63.618
+    },
+    {
+      "index": 11,
+      "text": "When that happens, everyone at the stop looks down the street and checks their watch again and again.",
+      "startSec": 63.618,
+      "endSec": 70.076
+    },
+    {
+      "index": 12,
+      "text": "If I miss the bus, I can walk to the train, but it takes longer and feels stressful.",
+      "startSec": 70.076,
+      "endSec": 75.934
+    },
+    {
+      "index": 13,
+      "text": "During the ride, I usually listen to a podcast or review my schedule for the afternoon.",
+      "startSec": 75.934,
+      "endSec": 81.816
+    },
+    {
+      "index": 14,
+      "text": "I try not to spend the whole trip on social media because it makes the journey feel wasted.",
+      "startSec": 81.816,
+      "endSec": 86.857
+    },
+    {
+      "index": 15,
+      "text": "After I get off, I stop by a small shop near the office if I need anything for the day.",
+      "startSec": 86.857,
+      "endSec": 92.859
+    },
+    {
+      "index": 16,
+      "text": "Sometimes I buy tissues, toothpaste, or a notebook if I have run out at home.",
+      "startSec": 92.859,
+      "endSec": 98.068
+    },
+    {
+      "index": 17,
+      "text": "It is convenient, even though the prices are a little higher than at the supermarket.",
+      "startSec": 98.068,
+      "endSec": 103.085
+    },
+    {
+      "index": 18,
+      "text": "At work, the first thing I do is check my email and write down the three most important tasks.",
+      "startSec": 103.085,
+      "endSec": 109.471
+    },
+    {
+      "index": 19,
+      "text": "If I do not make a list, small problems can steal all my attention before lunch.",
+      "startSec": 109.471,
+      "endSec": 115.208
+    },
+    {
+      "index": 20,
+      "text": "Around noon, I eat the lunch I brought from home, usually with one or two coworkers.",
+      "startSec": 115.208,
+      "endSec": 121.138
+    },
+    {
+      "index": 21,
+      "text": "We often talk about simple things, like weekend plans, useful apps, or where to find good cheap groceries.",
+      "startSec": 121.138,
+      "endSec": 128.364
+    },
+    {
+      "index": 22,
+      "text": "In the afternoon, I try to finish difficult tasks first, while I still have enough energy to focus.",
+      "startSec": 128.364,
+      "endSec": 135.038
+    },
+    {
+      "index": 23,
+      "text": "By the end of the day, I usually feel tired, but I also feel better when I know I stayed organized.",
+      "startSec": 135.038,
+      "endSec": 141.544
+    },
+    {
+      "index": 24,
+      "text": "On the way home, I sometimes stop at the supermarket to buy vegetables, eggs, or something for dinner.",
+      "startSec": 141.544,
+      "endSec": 148.098
+    },
+    {
+      "index": 25,
+      "text": "I prefer shopping on my way back because I can check what I already have in my fridge later.",
+      "startSec": 148.098,
+      "endSec": 153.595
+    },
+    {
+      "index": 26,
+      "text": "Once I get home, I change into comfortable clothes and put my bag in the same place every day.",
+      "startSec": 153.595,
+      "endSec": 160.125
+    },
+    {
+      "index": 27,
+      "text": "That small habit saves time because I do not have to search for everything the next morning.",
+      "startSec": 160.125,
+      "endSec": 165.454
+    },
+    {
+      "index": 28,
+      "text": "After dinner, I wash the dishes right away, since leaving them until later makes the kitchen feel messy.",
+      "startSec": 165.454,
+      "endSec": 172.224
+    },
+    {
+      "index": 29,
+      "text": "Before going to bed, I spend a few minutes preparing for tomorrow so the morning can be calmer.",
+      "startSec": 172.224,
+      "endSec": 178.106
+    },
+    {
+      "index": 30,
+      "text": "Daily life is full of small decisions, but good habits make ordinary days much easier.",
+      "startSec": 178.106,
+      "endSec": 184.252
+    }
+  ]
+}

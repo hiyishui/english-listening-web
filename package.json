@@ -1,0 +1,38 @@
+{
+  "name": "english-listening-web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "React web app for daily English listening lessons.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -p tsconfig.json && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run",
+    "test:unit": "vitest run src/config.test.ts src/auth/tokenStorage.test.ts src/api/githubClient.test.ts src/api/localContentClient.test.ts src/content/schema.test.ts src/content/vtt.test.ts src/content/lessonSelection.test.ts src/player/sentenceNavigation.test.ts",
+    "test:integration": "vitest run src/App.test.tsx",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "vite": "^7.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@testing-library/jest-dom": "^6.6.0",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "jsdom": "^29.1.1",
+    "typescript": "^5.8.0",
+    "vitest": "^3.2.0"
+  }
+}
